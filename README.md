@@ -1,4 +1,4 @@
-# WomenAndWorkAnalysis
+# Women and Work
 
 Analysis of gender differences at work is a Jupyter Notebook project used as part of the final assessment of a Python jumpstart course. 
 
